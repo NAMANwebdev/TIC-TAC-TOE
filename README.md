@@ -1,4 +1,4 @@
-##TIC-TAC-TOE
+# TIC-TAC-TOE
 
 🎮 Welcome to Tic Tac Toe! This is a simple yet addictive game built using HTML, CSS, and JavaScript. Challenge your friends to a match and see who emerges victorious in this classic battle of wits! 🏆
 
